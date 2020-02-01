@@ -14,7 +14,7 @@
    preserveAspectRatio="xMidYMid meet"
    id="svg15"
    sodipodi:docname="electronics-top-layer_3mm.svg"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata21">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -39,25 +39,24 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1032"
+     inkscape:window-height="1138"
      id="namedview17"
      showgrid="false"
-     inkscape:zoom="2.8715148"
-     inkscape:cx="44.445614"
-     inkscape:cy="810.6658"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:zoom="4.0609352"
+     inkscape:cx="224.60458"
+     inkscape:cy="784.36464"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg15"
      inkscape:document-units="mm"
      showguides="true"
      inkscape:guide-bbox="true" />
   <g
-     id="g2054"
-     transform="translate(10,10)">
+     id="g5151">
     <g
        style="stroke:#0000ff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       transform="translate(13.644788,-38.207294)"
+       transform="translate(23.644788,-28.207294)"
        id="g2193-3">
       <g
          style="stroke:#0000ff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -477,6 +476,7 @@
       </g>
     </g>
     <g
+       transform="translate(10,5.1886348)"
        id="g1970">
       <circle
          style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
